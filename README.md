@@ -13,7 +13,7 @@ Weather Canvas is a simple web application that allows users to check the curren
 - [License](#license)
 
 
-
+```
 Weather-Canvas/
 │ README.md          # Read me file
 │ 
@@ -27,6 +27,7 @@ Weather-Canvas/
 │ │ style.css        # CSS file for styling
 │
 ├── index.html       # Main HTML file
+```
 
 ## Demo
 
