@@ -12,6 +12,22 @@ Weather Canvas is a simple web application that allows users to check the curren
 - [Contributing](#contributing)
 - [License](#license)
 
+
+
+Weather-Canvas/
+│ README.md          # Read me file
+│ 
+├── images/
+│ │ all images       # Image used
+│
+├── javascript/
+│ │ javascript.js    # JavaScript file for functionality
+│
+├── styles/
+│ │ style.css        # CSS file for styling
+│
+├── index.html       # Main HTML file
+
 ## Demo
 
 You can access a live demo of this project by visiting [Weather Canvas](https://jashan-panwa.github.io/Weather-Canvas/).
