@@ -4,6 +4,7 @@ Weather Canvas is a simple web application that allows users to check the curren
 
 ## Table of Contents
 
+- [ProjectStructure](#projectstructure)
 - [Demo](#demo)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
@@ -12,6 +13,7 @@ Weather Canvas is a simple web application that allows users to check the curren
 - [Contributing](#contributing)
 - [License](#license)
 
+## ProjectStructure
 
 ```
 Weather-Canvas/
